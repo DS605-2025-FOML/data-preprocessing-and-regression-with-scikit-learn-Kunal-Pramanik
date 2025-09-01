@@ -1,0 +1,4 @@
+python3 -m venv venv  # for creating v environment
+venv/scripts/activate.bat 
+.\venv\Scripts\Activate.ps1  # for activate virtual environment
+deactivate.bat # for deactivate environment
